@@ -9,5 +9,9 @@
 <body>
     <h3>percobaan ke </h3>
     <p>ini adalah halama percobaan git remote yg sdh ada repo sblmnya bukan dari awal</p>
+    <ul>
+        <li>tes 1</li>
+        <li>tes 2</li>
+    </ul>
 </body>
 </html>
